@@ -1,0 +1,27 @@
+C:\Users\Tuan\Documents\New folder (2)\Executor\Executor\bin\Debug\Executor.exe.config
+C:\Users\Tuan\Documents\New folder (2)\Executor\Executor\bin\Debug\Executor.exe
+C:\Users\Tuan\Documents\New folder (2)\Executor\Executor\bin\Debug\Executor.pdb
+C:\Users\Tuan\Documents\New folder (2)\Executor\Executor\bin\Debug\FastColoredTextBox.dll
+C:\Users\Tuan\Documents\New folder (2)\Executor\Executor\obj\Debug\Executor.csproj.AssemblyReference.cache
+C:\Users\Tuan\Documents\New folder (2)\Executor\Executor\obj\Debug\Executor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tuan\Documents\New folder (2)\Executor\Executor\obj\Debug\Executor.Form1.resources
+C:\Users\Tuan\Documents\New folder (2)\Executor\Executor\obj\Debug\Executor.Properties.Resources.resources
+C:\Users\Tuan\Documents\New folder (2)\Executor\Executor\obj\Debug\Executor.csproj.GenerateResource.cache
+C:\Users\Tuan\Documents\New folder (2)\Executor\Executor\obj\Debug\Executor.csproj.CoreCompileInputs.cache
+C:\Users\Tuan\Documents\New folder (2)\Executor\Executor\obj\Debug\Executor.csproj.CopyComplete
+C:\Users\Tuan\Documents\New folder (2)\Executor\Executor\obj\Debug\Executor.exe
+C:\Users\Tuan\Documents\New folder (2)\Executor\Executor\obj\Debug\Executor.pdb
+C:\Users\Tuan\Documents\New folder (2)\Executor\Executor\bin\Debug\WeAreDevs_API.dll
+C:\Users\Tuan\source\repos\Executor\Executor\bin\Debug\Executor.exe.config
+C:\Users\Tuan\source\repos\Executor\Executor\bin\Debug\Executor.exe
+C:\Users\Tuan\source\repos\Executor\Executor\bin\Debug\Executor.pdb
+C:\Users\Tuan\source\repos\Executor\Executor\bin\Debug\WeAreDevs_API.dll
+C:\Users\Tuan\source\repos\Executor\Executor\obj\Debug\Executor.csproj.AssemblyReference.cache
+C:\Users\Tuan\source\repos\Executor\Executor\obj\Debug\Executor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tuan\source\repos\Executor\Executor\obj\Debug\Executor.Form1.resources
+C:\Users\Tuan\source\repos\Executor\Executor\obj\Debug\Executor.Properties.Resources.resources
+C:\Users\Tuan\source\repos\Executor\Executor\obj\Debug\Executor.csproj.GenerateResource.cache
+C:\Users\Tuan\source\repos\Executor\Executor\obj\Debug\Executor.csproj.CoreCompileInputs.cache
+C:\Users\Tuan\source\repos\Executor\Executor\obj\Debug\Executor.csproj.CopyComplete
+C:\Users\Tuan\source\repos\Executor\Executor\obj\Debug\Executor.exe
+C:\Users\Tuan\source\repos\Executor\Executor\obj\Debug\Executor.pdb
